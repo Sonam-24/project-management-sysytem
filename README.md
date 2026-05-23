@@ -145,9 +145,9 @@ Member View & Update Assigned Tasks
 
 🌐 Deployment Links
 Frontend
-https://your-frontend.vercel.app
+https://project-management-system-eight-sigma.vercel.app/
 Backend
-https://your-backend.up.railway.app
+https://project-management-sysytem-production.up.railway.app/
 
 📸 Screenshots
 ![alt text](<Screenshot 2026-05-23 181348.png>) ![alt text](<Screenshot 2026-05-23 181316.png>) ![alt text](<Screenshot 2026-05-23 181232.png>) ![alt text](<Screenshot 2026-05-23 181142.png>) ![alt text](<Screenshot 2026-05-23 181104.png>)
