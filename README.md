@@ -56,7 +56,7 @@ project-management-system/
 
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
-git clone https://github.com/YOUR_USERNAME/project-management-system.git
+git clone https://github.com/Sonam-24/project-management-system.git
 
 2️⃣ Install Backend Dependencies
 cd server
